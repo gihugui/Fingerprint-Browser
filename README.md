@@ -75,6 +75,7 @@
 ![指纹浏览器客户端](https://github.com/gihugui/Fingerprint-Browser/raw/main/img/client4.png)
 ![指纹浏览器客户端](https://github.com/gihugui/Fingerprint-Browser/raw/main/img/client3.png)
 ![指纹浏览器客户端](https://github.com/gihugui/Fingerprint-Browser/raw/main/img/android.png)
+![指纹浏览器客户端](https://github.com/gihugui/Fingerprint-Browser/raw/main/img/ws.mp4)
 
 ## 部分作品展示：
 ![指纹浏览器客户端](https://github.com/gihugui/Fingerprint-Browser/raw/main/img/al.png)
